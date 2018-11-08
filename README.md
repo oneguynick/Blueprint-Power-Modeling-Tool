@@ -18,4 +18,7 @@ Inputs:
  I've added an extra file called 'dayAheadPrediction.' I've created a neural network to assist the project with energy price projections, but is in its early stages and requires more development, tuning and data to become effective. I figured it couldn't hurt to attempt to solve the problem of next-day forecasts, so I included it here! 
 
 
-  
+### Install
+*   virtualenv -p python3.6 .venv
+*   source .venv/bin/activate
+*   pip install -r requirements.txt
